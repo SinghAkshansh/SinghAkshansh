@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhakshansh" alt="singhakshansh" /></a> </p>
 
-- 💬 Ask me about **Javascript, React, NodeJS, ExpressJS, MongoDB, SQL, Flutter, Dart**
+- 💬 Ask me about **Javascript, React, NodeJS, ExpressJS, MongoDB, & SQL**
 
 - 📫 How to reach me **akshanshsingh478@gmail.com**
 
